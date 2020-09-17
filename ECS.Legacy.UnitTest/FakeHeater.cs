@@ -5,7 +5,7 @@ namespace ECS.Legacy.UnitTest
 {
     class FakeHeater:IHeater
     {
-        FakeHeater()
+        public FakeHeater()
         {
             Log = new Logger();
         }
