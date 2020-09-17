@@ -20,7 +20,6 @@ namespace ECS.Legacy.UnitTest
 
             // Test of ECS
 
-            [Test]
             
 
             // Test of TempSensor
